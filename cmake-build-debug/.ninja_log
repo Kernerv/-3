@@ -1,0 +1,9 @@
+# ninja log v5
+0	503	6608191875359866	CMakeFiles/lab2_1.dir/main.cpp.obj	172890831b088109
+1	328	6608193811018254	build.ninja	68b2fb46bb20ca74
+16	547	6608194409810843	CMakeFiles/lab2_1.dir/CircularBuffer2.cpp.obj	389737783dca20b
+19	610	6608194410439712	CMakeFiles/lab2_1.dir/Iterator.cpp.obj	c1b1ebd59fa97246
+1	610	6608194410439712	CMakeFiles/lab2_1.dir/CircularBuffer.cpp.obj	37597e6113dead0a
+610	750	6608194411849958	lab2_1.exe	ddcc96c536692e88
+3	492	6608195203430881	CMakeFiles/lab2_1.dir/CircularBuffer2.cpp.obj	389737783dca20b
+492	634	6608195204841018	lab2_1.exe	ddcc96c536692e88
